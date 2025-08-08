@@ -1,2 +1,2 @@
 # Data-Analyst-Projects
-Analyzed a Netflix dataset using Python, Pandas, Matplotlib, and Seaborn. Explored trends in content type, genres, countries, and release years. Performed data cleaning, filtering, and visualizations to identify user preferences. Showcased skills in data analysis, storytelling, and insight generation.
+This repository contains a collection of beginner-friendly data analytics projects focused on exploring, cleaning, analyzing, and visualizing real-world datasets. Each project showcases the application of tools like Python, Pandas, Matplotlib, Seaborn, and Excel to draw insights and support decision-making. These projects demonstrate core skills in data handling, statistical analysis, and data storytelling essential for a data analyst role.
