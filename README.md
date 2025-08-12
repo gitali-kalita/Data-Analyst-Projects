@@ -1,2 +1,2 @@
-# Data-Analyst-Projects
+# NetflixData-Analyst-Projects
 This repository contains a collection of beginner-friendly data analytics projects focused on exploring, cleaning, analyzing, and visualizing real-world datasets. Each project showcases the application of tools like Python, Pandas, Matplotlib, Seaborn, and Excel to draw insights and support decision-making. These projects demonstrate core skills in data handling, statistical analysis, and data storytelling essential for a data analyst role.
